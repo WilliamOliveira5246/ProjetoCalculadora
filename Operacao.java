@@ -1,0 +1,3 @@
+public enum Operacao {
+    SOMA, SUBTRACAO, MULTIPLICA, DIVIDE, RESULTADO, NENHUM, EXP, RAIZ;
+}
